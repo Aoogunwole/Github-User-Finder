@@ -21,7 +21,7 @@ Welcome to GitHub User Finder! This web application allows you to search for Git
 
 ## Demo
 
-You can find a live demo of the GitHub User Finder application [here](https://github-user-finder-demo.com). Feel free to explore its features and try searching for different GitHub users to see their profiles and repositories.
+You can find a live demo of the GitHub User Finder application [here](https://github-user-finder-demo.com).Feel free to explore its features and try searching for different GitHub users to see their profiles and repositories.
 
 ## Installation
 
